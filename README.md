@@ -1,31 +1,28 @@
 # Bruno S Pereira
 
-Software Developer focused on building practical software with **TypeScript, Python, C#, and Go**.
+Software developer focused on .NET, Angular, AI integrations, and production-grade engineering practices.
 
-I design and ship products across automation, monitoring, and learning platforms.
+## Professional Fork Focus
 
-## Featured Projects
+This profile is curated around professional forks used for technical study, contribution workflow, and architecture analysis.
 
-- [quiz-books](https://github.com/bsallesp/quiz-books) - Quiz platform for books and adaptive learning experiments.
-- [KnowlegdeGame](https://github.com/bsallesp/KnowlegdeGame) - Dystopian learning game with adaptive progression.
-- [WorkGrow](https://github.com/bsallesp/WorkGrow) - Productivity workflow management platform.
-- [controlcrest2](https://github.com/bsallesp/controlcrest2) - Python automation and monitoring workflows.
-- [Aura](https://github.com/bsallesp/Aura) - C#/.NET architecture experiments.
+### Primary Forks
+- [semantic-kernel](https://github.com/bsallesp/semantic-kernel) - AI integration patterns with .NET for enterprise applications.
+- [runtime](https://github.com/bsallesp/runtime) - .NET runtime internals, performance, and platform architecture.
+- [angular](https://github.com/bsallesp/angular) - Angular framework architecture and frontend engineering conventions.
 
-## Core Skills
+## Engineering Standards
 
-- Backend and API development
-- Automation and data workflows
-- AI-assisted product development
-- Full-stack TypeScript and Python systems
+- Clean repository metadata (description and topics)
+- Reversible curation decisions (hide instead of delete)
+- Focus on relevant technologies and real career alignment
+- No artificial activity or low-signal fork spam
 
-## Open To
+## Tech Areas
 
-- Software Engineering opportunities
-- Backend / Platform / Full-stack roles
-- Product-focused engineering teams
+.NET, C#, Angular, TypeScript, AI integrations, software architecture, automation.
 
 ## Contact
 
-- Email: bsallesp@gmail.com
 - GitHub: https://github.com/bsallesp
+- Email: bsallesp@gmail.com
