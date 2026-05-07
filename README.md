@@ -1,26 +1,25 @@
 # Bruno S Pereira
 
-Software developer focused on .NET, Angular, AI integrations, and production-grade engineering practices.
+Software developer focused on .NET, Azure, Angular, AI integrations, and cloud-native engineering.
 
-## Professional Fork Focus
+## Professional Fork Portfolio
 
-This profile is curated around professional forks used for technical study, contribution workflow, and architecture analysis.
+This profile is intentionally curated around high-signal forks used for architecture study, contribution workflow, and technical depth.
 
-### Primary Forks
-- [semantic-kernel](https://github.com/bsallesp/semantic-kernel) - AI integration patterns with .NET for enterprise applications.
-- [runtime](https://github.com/bsallesp/runtime) - .NET runtime internals, performance, and platform architecture.
-- [angular](https://github.com/bsallesp/angular) - Angular framework architecture and frontend engineering conventions.
+### Core Engineering Forks
+- [runtime](https://github.com/bsallesp/runtime) - .NET runtime internals, performance, and platform foundations.
+- [aspnetcore](https://github.com/bsallesp/aspnetcore) - ASP.NET Core architecture, backend patterns, and modern service design.
+- [azure-sdk-for-net](https://github.com/bsallesp/azure-sdk-for-net) - Azure integration patterns and enterprise cloud development with .NET.
+- [semantic-kernel](https://github.com/bsallesp/semantic-kernel) - AI orchestration and LLM integration patterns in enterprise software.
+- [angular](https://github.com/bsallesp/angular) - Frontend architecture, framework conventions, and scalable UI engineering.
+- [kubernetes](https://github.com/bsallesp/kubernetes) - Cloud-native platform engineering and orchestration internals.
 
-## Engineering Standards
+## Standards
 
-- Clean repository metadata (description and topics)
-- Reversible curation decisions (hide instead of delete)
-- Focus on relevant technologies and real career alignment
-- No artificial activity or low-signal fork spam
-
-## Tech Areas
-
-.NET, C#, Angular, TypeScript, AI integrations, software architecture, automation.
+- Focus on relevance over volume
+- Professional repository metadata and taxonomy
+- Reversible curation decisions
+- No vanity forks or artificial activity
 
 ## Contact
 
